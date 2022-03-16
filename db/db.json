@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Gabriel Machado",
+      "email": "gabriel.leonel123@hotmail.com",
+      "cpf": "12490278967",
+      "categoria_id": 1
+    }
+  ],
+  "categoria": [
+    {
+      "id": 1,
+      "nome": "Pessoa Fisíca"
+    },
+    {
+      "id": 2,
+      "nome": "Pessoa Jurídica"
+    }
+  ]
+}
